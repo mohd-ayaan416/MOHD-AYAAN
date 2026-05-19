@@ -16,8 +16,6 @@ This portfolio is designed with a strong focus on:
 **Live Website:** `https://mohd-ayaan416.github.io/MOHD-AYAAN/`  
 **GitHub Repository:** `https://github.com/mohd-ayaan416/MOHD-AYAAN/`
 
-> Replace the links above with your actual deployment and repository URLs.
-
 ---
 
 ## Preview of the Website
